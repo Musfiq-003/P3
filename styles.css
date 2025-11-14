@@ -11,7 +11,7 @@
 html,body{height:100%;margin:0;font-family:var(--ui);background:var(--bg);color:var(--muted);-webkit-font-smoothing:antialiased}
 .wrap{max-width:var(--max-w);margin:28px auto;padding:20px}
 header{display:flex;gap:18px;align-items:center;margin-bottom:18px}
-.profile-pic{width:96px;height:96px;border-radius:10px;object-fit:cover;circle-shadow:0 6px 20px rgba(2,6,23,0.6)}
+.profile-pic{width:96px;height:96px;border-radius: 50%;object-fit:cover;circle-shadow:0 6px 20px rgba(2,6,23,0.6)}
 h1{margin:0;font-size:20px;color:var(--accent2);letter-spacing:0.6px}
 .lead{margin:4px 0 0;font-weight:600;color:var(--muted)}
 .muted{color:var(--muted)}
